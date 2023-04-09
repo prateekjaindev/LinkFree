@@ -1,0 +1,17 @@
+{
+  "name": "Prateek Jain",
+  "type": "personal",
+  "bio": "DevSecOps Lead with 4 years of experience in ensuring secure and efficient software development practices through collaboration between development, security, and operations teams."
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/PrateekJainDev",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/prateekjaindev/",
+      "icon": "FaInstagram"
+    }
+  ]
+}
